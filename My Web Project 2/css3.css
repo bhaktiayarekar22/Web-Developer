@@ -1,0 +1,70 @@
+body{
+    margin-top: 30px;
+}
+#h1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 1100px;
+    margin-top: 10px;
+    background-color: rgb(187, 201, 221);
+}
+.h2{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(97, 150, 223);
+
+}
+.h3{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(17, 82, 172);
+
+}
+.h4{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+   
+    background-color: rgb(223, 95, 15);
+}
+.h5{
+    height: 50px;
+    width: 50px; 
+    float:left;
+    margin-left: 1100px;
+    margin-top: 10px;
+    background-color: rgb(230, 245, 25);
+}
+.h6{
+    height: 50px;
+    width: 50px;
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(46, 220, 11);
+}
+.h7{
+    height: 50px;
+    width: 50px;
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(24, 154, 241);
+}
+.h8{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(68, 9, 231);
+}

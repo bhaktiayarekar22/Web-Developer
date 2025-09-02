@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+#start
+{
+    height: 300px;
+    width: auto;
+    background-color: crimson;
+}
+.middle
+{
+    height: 300px;
+    width: auto;
+    background-color: rgb(246, 249, 63);
+}
+.end
+{
+ 
+    height: 300px;
+    width: auto;
+    background-color: rgb(77, 232, 92);
+}
